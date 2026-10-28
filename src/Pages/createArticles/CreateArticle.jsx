@@ -4,6 +4,7 @@ import styled from "./createArticle.module.css";
 import Input from "../../components/input/Input";
 import Textarea from "../../components/textarea/Textarea";
 import axios from "axios";
+import Footer from "../../components/Footer/Footer";
 
 function CreateArticle() {
   const [article, setArticle] = useState({
@@ -133,6 +134,7 @@ function CreateArticle() {
             </p>
           )}
         </div>
+        <Footer />
       </div>
     </>
   );

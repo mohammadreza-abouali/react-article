@@ -20,7 +20,7 @@
   width: 23%;
 }
 
-/* Tablet */
+
 @media (max-width: 992px) {
   .articles {
     gap: 20px 0;
@@ -31,7 +31,7 @@
   }
 }
 
-/* Mobile */
+
 @media (max-width: 576px) {
   .homeWrapper h2 {
     margin-top: 24px;
