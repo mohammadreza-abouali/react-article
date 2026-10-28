@@ -29,8 +29,10 @@ function CreateArticle() {
     }));
   };
 
+
+
   const handleCreateNewArticle = () => {
-    axios.post("http://localhost:8000/articles", {
+    axios.post("https://react-article-api.onrender.com/articles", {
       id: 9,
       imageUrl: article.imageUrl,
       title: article.title,

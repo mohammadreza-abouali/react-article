@@ -13,7 +13,7 @@ function ArticlePage() {
   useEffect(() => {
     setIsLoading(true);
     axios
-      .get(`http://localhost:8000/articles/${params.id}`)
+      .get(`https://react-article-api.onrender.com/articles/${params.id}`)
       .then((result) => {
         setArticle(result.data);
         setIsLoading(false);

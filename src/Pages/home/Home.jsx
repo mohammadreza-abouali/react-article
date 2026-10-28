@@ -14,7 +14,7 @@ function Home() {
   useEffect(() => {
     setIsLoading(true);
     axios
-      .get("http://localhost:8000/articles")
+      .get("https://react-article-api.onrender.com/articles")
       .then((result) => {
         setArticles(result.data);
         setIsLoading(false);
