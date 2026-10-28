@@ -1,0 +1,20 @@
+.articleWrapper{
+    height: 370px;
+    background-color:rgb(229, 232, 235);
+    margin-bottom: 20px;
+    box-shadow: 0px 3px 5px #ccc;
+}
+
+.articleWrapper img{
+    width: 100%;
+}
+
+.articleWrapper h3{
+    text-align: left;
+    padding: 8px;
+}
+
+.articleWrapper p{
+    text-align: left;
+    padding: 10px;
+}

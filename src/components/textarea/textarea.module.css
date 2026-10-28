@@ -1,0 +1,15 @@
+.textareaWrapper{
+
+}
+
+.textareaWrapper label{
+display: block;
+margin-bottom: 5px;
+text-align: left;
+}
+
+.textareaWrapper textarea{
+    width: 100%;
+    min-height: 200px;
+    border: 1px solid #ccc;
+}

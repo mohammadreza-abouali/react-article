@@ -1,0 +1,29 @@
+.articleWrapper {
+    text-align: center;
+}
+
+.articleWrapper h1 {
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.articleWrapper img {
+  width: 35%;
+  margin-bottom: 20px;
+}
+
+.articleWrapper p {
+  text-align: left;
+  color: #777;
+}
+
+.articleInfo {
+  margin-bottom: 20px;
+}
+
+.articleInfo p {
+  margin-left: 10px;
+  color: #777;
+}

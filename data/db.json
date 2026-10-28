@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctxdZ8Q95z9odB4Sv7VtUPK-fd4yGMjYM7hVr4L04Jg&s=10",
+      "title": "title 1",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNuOBodOnYGdtb-b-wGH_csg4Eke_tl-qUjo6xrZ2Pg&s=10",
+      "title": "title 2",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aMiwxyMTKicywZ2kLXVJUuVBo6ZXYJE1osP8w6xe_Q&s=10",
+      "title": "title 3",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IzF6vW9CextzJ0KXvsdxhSB4d2w5Sn0_z49BChGWTg&s=10",
+      "title": "title 4",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kTIAuilw8R0xEp8gdGOKe6dYUg4Dh_QwLIhMQnIvGQ&s=10",
+      "title": "title 5",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bk8oETmRs0FI8b9uFRfIj1Np0Ww-6SYh3T8LRESiAA&s=10",
+      "title": "title 6",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-P5t0p9WcuBzyz3cTGL5l4NQgaMsH76oGFWi0dyWog&s=10",
+      "title": "title 7",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://tiktarh.com/storage/old/2023/09/Icn1005305www.tiktarh.com_.jpg",
+      "title": "title 8",
+      "readingTime": 10,
+      "date": "28-10-2026",
+      "author": "Mohammadreza Abouali",
+      "content": "Good software development is about more than just writing code. It’s about understanding the problem, finding the right solution, and building something that people can rely on. As developers, we should focus on creating applications that are clean, efficient, and easy to maintain. Every decision we make, from the way we structure the code to how we handle unexpected situations, has an impact on the final product. Taking the time to get these details right makes a real difference in the long run. I also believe that communication is just as important as technical skills. A successful project requires a clear understanding of the client’s expectations, honest feedback, and a willingness to adapt when things change. Sometimes the best solution isn’t the most complicated one; it’s the one that solves the problem in the simplest and most reliable way. At the end of the day, my goal is to deliver work that I can stand behind. That means paying attention to the small details, taking responsibility for my decisions, and always looking for ways to improve. Building a good product is a team effort, and I believe the best results come when everyone is working toward the same goal."
+    }
+  ]
+}
