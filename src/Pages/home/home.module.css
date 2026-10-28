@@ -1,3 +1,4 @@
+
 .homeWrapper {
   color: black;
 }
@@ -17,4 +18,32 @@
 
 .articles a {
   width: 23%;
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+  .articles {
+    gap: 20px 0;
+  }
+
+  .articles a {
+    width: 48%;
+  }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  .homeWrapper h2 {
+    margin-top: 24px;
+    font-size: 18px;
+  }
+
+  .articles {
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .articles a {
+    width: 100%;
+  }
 }
