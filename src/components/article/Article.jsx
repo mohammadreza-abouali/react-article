@@ -1,5 +1,5 @@
 import styled from "./article.module.css"
-// import images from "./../../assets/images/1.jpg"
+
 
 function Article(props) {
 
