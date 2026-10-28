@@ -2,7 +2,7 @@ import Navbar from "../../components/Navbar/Navbar";
 import styled from "./about.module.css";
 import aboutMe from "./../../assets/images/aboutMe.png";
 import Footer from "../../components/Footer/Footer";
-import Input from "../../components/input/Input";
+
 
 function AboutMe() {
   return (

@@ -22,7 +22,7 @@ function ArticlePage() {
         console.log(error);
         setIsLoading(false);
       });
-  }, []);
+  }, [params.id]);
 
   return (
     <>

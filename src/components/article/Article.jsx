@@ -7,7 +7,7 @@ function Article(props) {
 
   return (
     <div className={styled.articleWrapper}>
-      <img src={props.article.imageUrl} />
+      <img src={props.article.imageUrl} alt={props.article.title} />
 
       <h3>{props.article.title}</h3>
 
